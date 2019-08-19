@@ -2,3 +2,5 @@
 results/plots
 
 .Rproj.user
+.Rhistory
+.Rdata
